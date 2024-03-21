@@ -5,7 +5,7 @@
 ### 1.1 Почта и SMTP (2 балла)
 
 Почта действительно отправляется: 
-![email sender](./pics/email_sender.png)
+![email sender](./images/email_sender.png)
 
 ### 2. Удаленный запуск команд (3 балла) 
 За основу возьмём уже написанный в 3 лабораторной работе сервер и перепишем функцию `handle_request`:
@@ -42,6 +42,6 @@ def handle_request(self, request):
 
 Демонстрация работы связки клиент/сервер на примере вызова программы `ping`:
 
-![remote launch demonstration](./pics/remote_launch.png)
+![remote launch demonstration](./images/remote_launch.png)
 
 
